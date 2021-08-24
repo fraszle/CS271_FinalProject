@@ -1,5 +1,6 @@
 # CS271_FinalProject
 This is the portfolio project for CS271: Computer Architecture and Assembly Language
+
 The objectives of this project were:
   - Designing, implementing, and calling low-level I/O procedures
   - Implementing and using a macro
